@@ -65,5 +65,6 @@ This project was developed as a **class MVP** using **FastAPI** for the backend 
 ---
 
 ## 📁 Project Structure
+https://drive.google.com/file/d/1PW0EYVcBDnH31i9SRVbsjIfCaZbDSJK9/view
 
 
